@@ -1,53 +1,53 @@
-# 👨‍💻 Luigi Pereira
+<div align="center">
 
-<p align="center">
-  <b>Estudante no Instituto Federal da Bahia (IFBA) 🎓</b><br>
-  <i>Focado em algoritmos, estruturas de dados e desenvolvimento de software em C.</i>
-</p>
+<img src="./assets/banner.svg" alt="Luigi Pereira — estudante de Análise e Desenvolvimento de Sistemas no IFBA" width="100%" />
 
-<p align="center">
-  <a href="mailto:r.paranhos_2019@hotmail.com"><img src="https://img.shields.io/badge/Email-r.paranhos__2019%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/luigipereira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/LuigiAPCPereira"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+<br />
 
----
+**Olá! 👋 Bem-vindo ao meu perfil.**
 
-### 🚀 Sobre mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas no IFBA**, construindo minha base em programação e explorando o universo da tecnologia. Gosto de aprender, experimentar e entender o que existe por trás das ferramentas que utilizo.
 
-- 📚 Cursando no **Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)**.
-- 💡 Foco atual: **Fundamentos de Programação, Estruturas de Dados e Algoritmos em C**.
-- 🛠️ Estudando versionamento de código com Git/GitHub e desenvolvimento no ambiente Linux.
-- 🎯 Objetivo: Construir uma base sólida de engenharia de software e evoluir continuamente.
+<br />
+
+<a href="https://www.linkedin.com/in/luigipereira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:r.paranhos_2019@hotmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-263449?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+<a href="https://github.com/LuigiAPCPereira"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### ✦ Um pouco sobre mim
 
-#### Linguagens & Compiladores
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![GCC](https://img.shields.io/badge/GCC-Compiler-lightgrey?style=for-the-badge)
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **Instituto Federal da Bahia (IFBA)**.
+- 📖 Aprendendo **programação em C, lógica de programação e algoritmos**.
+- 🐧 Tenho interesse em **Linux**, ferramentas de desenvolvimento e no funcionamento dos sistemas.
+- 🌱 Meu objetivo é evoluir com consistência, praticando os fundamentos antes de dar passos maiores.
 
-#### Ferramentas & Ambiente
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### ✦ O que faz parte da minha jornada
+
+<div align="center">
+
+| 📚 Em aprendizado | 🛠️ Ferramentas e ambiente |
+| :---: | :---: |
+| <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img alt="GCC" src="https://img.shields.io/badge/GCC-555555?style=flat-square&logo=gnu&logoColor=white" /> | <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=FCC624" /> |
+| **Lógica · Algoritmos · Fundamentos** | **Terminal · Versionamento · Ambiente Linux** |
+
+</div>
+
+### ✦ Minha atividade no GitHub
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LuigiAPCPereira&theme=tokyonight&hide_border=true&background=0D1117" alt="Estatísticas de atividade de Luigi no GitHub" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuigiAPCPereira&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9CAAC5&line=7B8CFF&point=67E8F9" alt="Gráfico de atividade de Luigi no GitHub" width="100%" />
+</div>
 
 ---
 
-### 📊 Atividade no GitHub
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LuigiAPCPereira&theme=tokyonight" alt="GitHub Streak" />
-</p>
+*Aprendendo um pouco mais a cada dia.* ✨
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuigiAPCPereira&theme=tokyonight&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-<p align="center">
-  <i>"A simplicidade é a sofisticação máxima." — Leonardo da Vinci</i> ⚡
-</p>
+</div>
