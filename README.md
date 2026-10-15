@@ -4,9 +4,9 @@
 
 <br />
 
-**Olá! 👋 Bem-vindo ao meu perfil.**
+<strong>Olá! 👋 Bem-vindo ao meu perfil.</strong>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas no IFBA**, construindo minha base em programação e explorando o universo da tecnologia. Gosto de aprender, experimentar e entender o que existe por trás das ferramentas que utilizo.
+<p>Sou estudante de <strong>Análise e Desenvolvimento de Sistemas no IFBA</strong>, construindo minha base em programação e explorando o universo da tecnologia. Gosto de aprender, experimentar e entender o que existe por trás das ferramentas que utilizo.</p>
 
 <br />
 
@@ -27,14 +27,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas no IFBA**, construindo
 
 ### ✦ O que faz parte da minha jornada
 
-<div align="center">
-
 | 📚 Em aprendizado | 🛠️ Ferramentas e ambiente |
 | :---: | :---: |
 | <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img alt="GCC" src="https://img.shields.io/badge/GCC-555555?style=flat-square&logo=gnu&logoColor=white" /> | <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=FCC624" /> |
 | **Lógica · Algoritmos · Fundamentos** | **Terminal · Versionamento · Ambiente Linux** |
-
-</div>
 
 ### ✦ Minha atividade no GitHub
 
@@ -48,6 +44,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas no IFBA**, construindo
 
 <div align="center">
 
-*Aprendendo um pouco mais a cada dia.* ✨
+<em>Aprendendo um pouco mais a cada dia.</em> ✨
 
 </div>
